@@ -1,10 +1,10 @@
 # BE_Firebase
 
-# We have two endpoints
+We have two endpoints
 
-# POST https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
+POST https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
 
-# and send "JSON body raw" with employee data
+and send "JSON body raw" with employee data
 
 {
 "key": 3,
@@ -14,8 +14,8 @@
 "tags": ["UI/UX designer"]
 }
 
-# and GET where we can get an array of employee
+and GET where we can get an array of employee
 
-# GET https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
+GET https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
 
 We need to implement field validation
