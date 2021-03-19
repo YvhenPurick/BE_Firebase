@@ -17,3 +17,5 @@
 # and GET where we can get an array of employee
 
 # GET https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
+
+We need to implement field validation
