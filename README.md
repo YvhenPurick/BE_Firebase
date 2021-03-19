@@ -16,4 +16,4 @@
 
 # and GET where we can get an array of employee
 
-# https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
+# GET https://us-central1-fir-auth-aab3a.cloudfunctions.net/table
